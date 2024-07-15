@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VikalpNimesh
+- 👋 Hi, I’m Vikalp Nimesh
 - 👀 I’m interested in @Software Development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently working as Frontend-end developer
+- 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me @imvikalpnimesh on instagram
 
 <!---
